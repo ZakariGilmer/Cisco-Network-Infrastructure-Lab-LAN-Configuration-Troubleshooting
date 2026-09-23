@@ -40,7 +40,7 @@ The network was designed and configured in Cisco Packet Tracer using routers, sw
 
 The topology was built to allow devices on the network to communicate with one another and to demonstrate fundamental routing and switching concepts.
 
-![Network Topology](network-topology.png)
+![Network Topology](Screenshots/network-topology.png)
 
 ## Network Configuration
 

@@ -2,7 +2,7 @@
 
 A Cisco Packet Tracer network design and implementation project for a small law firm. The network is designed to provide reliable connectivity, IP telephony, network segmentation, secure device management, and isolated guest wireless access.
 
-![Network Topology](Diagrams/Network-Topology.png)
+![Network Topology](Screenshots/network-topology.png)
 
 ---
 

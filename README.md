@@ -73,9 +73,9 @@ The network uses VLAN segmentation to separate different categories of traffic.
 |   10 | Attorney Data  | 3 Attorney PCs            |
 |   20 | Paralegal Data | 1 Paralegal PC            |
 |   30 | Reception Data | Reception PC              |
-|   40 | Voice          | 5 IP Phones               |
-|   50 | Printer        | Shared Network Printer    |
-|   60 | Guest Wi-Fi    | Conference Room Guests    |
+|   40 | Printer        | Shared Network Printer    |
+|   50 | Guest Wi-Fi    | Conference Room Guests    |
+|   60 | Voice          | 5 IP Phones               |
 |   99 | Management     | Network Device Management |
 
 The VLAN assignments provide logical separation between employee data, voice traffic, printer traffic, guest traffic, and network management.
